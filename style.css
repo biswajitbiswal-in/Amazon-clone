@@ -110,12 +110,16 @@ span {
   display: inline;
   margin-left: 15px;
 }
-.panel-ops p:hover {
+.panel-ops a:hover {
   border: 2px solid white;
 }
 .panel-ops {
   width: 70%;
   font-size: 0.85rem;
+}
+.panel-ops a{
+  text-decoration:none;
+  color:white;
 }
 
 /***CLICKABLE PANNEL DEALS****/
