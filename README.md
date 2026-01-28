@@ -2,6 +2,8 @@
 
 A simple Amazon homepage clone built using HTML and CSS for learning and practice purposes.
 
+project link - "https://biswajitbiswal-in.github.io/Amazon-clone/"
+
 ## Features
 - Navbar
 - Hero section
