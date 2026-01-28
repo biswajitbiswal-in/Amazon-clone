@@ -106,20 +106,18 @@ span {
   align-items: center;
   justify-content: space-evenly;
 }
-.panel-ops p {
-  display: inline;
-  margin-left: 15px;
-}
-.panel-ops a:hover {
-  border: 2px solid white;
-}
 .panel-ops {
   width: 70%;
   font-size: 0.85rem;
 }
-.panel-ops a{
-  text-decoration:none;
-  color:white;
+.panel-ops a {
+  display: inline-block;
+  margin-left: 15px;
+  text-decoration: none;
+  color: white;
+}
+.panel-ops a:hover {
+  border: 2px solid white;
 }
 
 /***CLICKABLE PANNEL DEALS****/
