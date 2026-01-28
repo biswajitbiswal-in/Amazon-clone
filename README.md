@@ -1,6 +1,7 @@
 # Amazon Clone
 
 A simple Amazon homepage clone built using HTML and CSS for learning and practice purposes.
+
 project link - "https://harmonious-kataifi-92220b.netlify.app/"
 ## Features
 - Navbar
