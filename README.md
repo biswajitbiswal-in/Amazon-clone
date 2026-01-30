@@ -1,20 +1,27 @@
-# Amazon Clone
+#Amazon Clone
 
-A simple Amazon homepage clone built using HTML and CSS for learning and practice purposes.
+A simple clone of the Amazon homepage created using HTML and CSS. This project is built for learning and practice, focusing on understanding webpage layout, styling, and responsive design basics.
 
+#🚀 Features
 
-## Features
-- Navbar
-- Hero section
-- Product sections
-- Footer
+Navigation Bar
 
-## Technologies Used
-- HTML
-- CSS
+Hero Section
 
-## How to Use
-Open `index.html` in any browser.
+Product Sections
 
-## Author
+Footer
+
+#🛠 Technologies Used
+
+HTML
+
+CSS
+
+#🎯 Purpose
+
+This project helps in practicing front-end development concepts such as layout design, positioning, and styling.
+
+#👤 Author
+
 Biswajit Biswal
